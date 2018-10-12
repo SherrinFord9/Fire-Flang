@@ -12,7 +12,7 @@ Solution - This model would be collecting 4 main basic data :-
                  Data - NASA has free data provided online for data on topography)
 
     3.Prolysis of the flora and fauna (Why - To predict the thermal decomposition of materials at elevated temperatures
-                                      Data - Getting data for prolysis is possible from the various research papers publish on           diffent types of flora and fauna presnt in our enivironment )
+                                      Data - Getting data for prolysis is possible from the various research papers publish on diffent types of flora and fauna presnt in our enivironment )
 
     4.Human activity (Why - To give the priority level of the wildfire
                       Data - Human activities around the place , social networking sites and travel agencies )
