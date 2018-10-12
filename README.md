@@ -6,7 +6,7 @@ Problem Statement   -  Prediction and prevention of a wildfire
 Solution - This model would be collecting 4 main basic data :-
 
     1.Weather (Why - To predict the movement of the wind and the weather forcast
-                Data - Getting data for weather would not be herculine task as all the meteorological weather stations have real time                    and live tracking of weather )
+                Data - Getting data for weather would not be herculine task as all the meteorological weather stations have real time and live tracking of weather )
 
     2.Topography (Why - To predict the direction of the wildfire 
                  Data - NASA has free data provided online for data on topography)
